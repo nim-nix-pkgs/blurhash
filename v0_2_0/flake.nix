@@ -11,7 +11,6 @@
   inputs.src-blurhash-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-blurhash-v0_2_0.owner = "SolitudeSF";
   inputs.src-blurhash-v0_2_0.repo  = "blurhash";
-  inputs.src-blurhash-v0_2_0.dir   = "";
   inputs.src-blurhash-v0_2_0.type  = "github";
   
   inputs."imageman".owner = "nim-nix-pkgs";
