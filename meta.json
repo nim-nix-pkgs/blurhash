@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/SolitudeSF/blurhash",
   "refs": [
-    "fatal: unable to access 'https://github.com/SolitudeSF/blurhash/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://github.com/SolitudeSF/blurhash/': SSL connection timeout",
     ""
   ],
   "heads": []
